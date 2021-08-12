@@ -7,7 +7,7 @@ body {
   font-family: arial;
 }
 .main{
-  background: url("http://localhost:7700/iombg.svg");
+  background: url("iombg.svg");
   width: 100%;
   height: 384px;
 }
