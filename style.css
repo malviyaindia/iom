@@ -27,11 +27,9 @@ background: white;
   font-weight: bold;
   border: none;
   outline: 0;
-  
   padding: 12px 16px;
   color: white;
-  background-color: #48145c
-;
+  background-color: gray;
   text-align: center;
   cursor: pointer;
   width: 100%;
